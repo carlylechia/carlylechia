@@ -7,9 +7,7 @@
 const chiaCarlyle = {
 
   currentStatus: "Microverse student and mentor, soon to be a Full-Stack Web Developer",
-
-  lookingForJobsIn: "Front-end Web Development",
-  
+  lookingForJobsIn: "Front-end Web Development",  
   languages: ['JavaScript', 'HTML', 'CSS'],
   
   needHelpWith: 'advanced javascript',

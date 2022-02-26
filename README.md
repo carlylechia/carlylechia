@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Chia Carlyle.
 
-<!--
-**carlylechia/carlylechia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<iframe src="https://giphy.com/embed/vhVqGkxDYxAaRbOWVp" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-vhVqGkxDYxAaRbOWVp">via GIPHY</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This Object Contains Some Information About Me.
+const chiaCarlyle = {
+  currentStatus: "Microverse student and mentor, soon to be a Full-Stack Web Developer",
+  lookingForJobsIn: "Front-end Web Development",
+  languages: ['JavaScript', 'HTML', 'CSS'],
+  needHelpWith: 'advanced javascript',
+  askMeAbout: ['HTML', 'CSS', 'javascript'],
+  contact: 'chiacarlyle@gmail.com',
+  pronouns: 'he' && 'his',
+  passions: 'Writing clean code with good infrastructure' && 'designing perfect web apps',
+  hobbies: ["singing", "Writing songs", "watching movies"],
+  weirdFact: "I code while humming or singing especially when it disturbs no one",
+}
+
+## My Github Statistics.
+[![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)

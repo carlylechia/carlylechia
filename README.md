@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Chia Carlyle.
+# Hi there 👋, my name is Chia Carlyle.
 
-
-<iframe src="https://giphy.com/embed/vhVqGkxDYxAaRbOWVp" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-vhVqGkxDYxAaRbOWVp">via GIPHY</a></p>
 
 ## This Object Contains Some Information About Me.
 const chiaCarlyle = {
 
   currentStatus: "Microverse student and mentor, soon to be a Full-Stack Web Developer",
-  lookingForJobsIn: "Front-end Web Development",  
+  
+  lookingForJobsIn: "Front-end Web Development",
+  
   languages: ['JavaScript', 'HTML', 'CSS'],
   
   needHelpWith: 'advanced javascript',

@@ -2,7 +2,7 @@
 
 ![infopic](Chia-info.png)
 
-## This Object Contains Some Information About Me.
+## This Object Contains Some Information About Me 🗒
 
 const chiaCarlyle = {
 
@@ -19,6 +19,6 @@ const chiaCarlyle = {
   
 };
 
-## My Github Statistics.
+## My Github Statistics 📈
 
 [![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)

@@ -22,6 +22,8 @@ const chiaCarlyle = {
 ## My Github Statistics 📈
 
 [![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&langs_count=5&theme=tokyonight)]
+
 
 ## Carlyle's Tech Skills 👨‍💻
 

@@ -26,7 +26,9 @@ const chiaCarlyle = {
 ## My Github Statistics 📈
 
 [![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&&card_width=400&hide_border=true&layout=compact&langs_count=5&theme=tokyonight)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlylechiatheme=nightowl&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -2,6 +2,10 @@
 
 ![infopic](Chia-info.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
+
 ## This Object Contains Some Information About Me 🗒
 
 const chiaCarlyle = {
@@ -22,10 +26,11 @@ const chiaCarlyle = {
 ## My Github Statistics 📈
 
 [![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&langs_count=5&theme=tokyonight)]
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&langs_count=5&theme=tokyonight)
 
 
-## Carlyle's Tech Skills 👨‍💻
+
+<h2 align="Center">  Carlyle's Tech Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
    ### My Frontend Technology Skills
 
@@ -124,3 +129,11 @@ const chiaCarlyle = {
   </tbody>
 </table>
 <hr>
+
+<h3>Contact Me<h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/chia-carlyle/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:chiacarlyle@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/ChiaCarlyle)
+[![Facebook Badge](https://img.shields.io/badge/-FaceBook-1ca0f1?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/_raghavit)](https://www.facebook.com/chia.carlyle.73)
+[![AngelList Badge](https://img.shields.io/badge/-AngelList-000?style=flat-square&logo=angellist&logoColor=white&link=https://angellist.com/_raghavit)](https://angel.co/u/chia-carlyle)

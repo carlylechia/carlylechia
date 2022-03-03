@@ -25,10 +25,10 @@ const chiaCarlyle = {
 
 ## My Github Statistics 📈
 
-[![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&show_icons=true&theme=dark)](https://github.com/carlylechia/github-readme-stats)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&&card_width=400&hide_border=true&layout=compact&langs_count=5&theme=tokyonight)
+[![Carlyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlylechia&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlylechia&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlylechiatheme=nightowl&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![carlyle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlylechia&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

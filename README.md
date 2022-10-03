@@ -10,11 +10,11 @@
 
 const chiaCarlyle = {
 
-    currentStatus: "Microverse student and mentor, soon to be a Full-Stack Web Developer",
-    lookingForJobsIn: "Front-end Web Development",
-    languages: ['JavaScript', 'HTML', 'CSS'],
-    needHelpWith: 'advanced javascript',
-    askMeAbout: ['HTML', 'CSS', 'javascript'],
+    currentStatus: "Full-Stack Web Developer",
+    lookingForJobsIn: ["Front-end Web Development", "Reactjs", "RubyOnRails", "Full-Stack Web Development"]
+    languages: ['JavaScript', 'HTML', 'CSS', 'Ruby'],
+    needHelpWith: 'A job, to boost my experience.'
+    askMeAbout: ['HTML', 'CSS', 'javascript', 'React', 'Ruby', 'Rails', 'Redux'],
     contact: 'chiacarlyle@gmail.com',
     pronouns: 'he' && 'his',
     passions: 'Writing clean code with good infrastructure' && 'designing perfect web apps',
